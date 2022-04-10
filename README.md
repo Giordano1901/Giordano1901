@@ -1,5 +1,4 @@
 ## ⚊ Saudações! Me chamo Gustavo, seja-bem vindo ao meu mundo! ✨
-<hr>
 <div align="left">
   <a href="https://github.com/Giordano1901">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giordano1901&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
