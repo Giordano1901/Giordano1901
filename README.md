@@ -1,9 +1,9 @@
 ### ⚊ Saudações! Me chamo Gustavo, seja-bem vindo ao meu mundo! 🌠
 
-<div style="align: center">
+<div align="center">
   <a href="https://github.com/Giordano1901">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giordano1901&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/ style="align: left"> </td>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giordano1901&layout=compact&langs_count=7&theme=dracula"/ style="align: right">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giordano1901&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giordano1901&layout=compact&langs_count=7&theme=rose_pine"/>
 </div>
 
 <!--
