@@ -1,4 +1,4 @@
-### E aí! Me chamo Gustavo, seja bem-vindo ao meu mundo! 👋
+### Saudações, me chamo Gustavo e seja-bem vindo ao meu mundo!
 
 <!--
 **Giordano1901/Giordano1901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
