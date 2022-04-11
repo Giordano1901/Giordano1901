@@ -12,8 +12,6 @@
   </a>
 </div>
 
-##
-
 <div>
   <h3><b>LINGUAGENS FAMILIARES<b></h3>
   <img align="center" alt="Rafa-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
