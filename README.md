@@ -1,7 +1,7 @@
 ## ⚊ Saudações, me chamo Gustavo! Seja bem-vindo ao meu mundo! ✨
 
   <p><i>🌱 Iniciante em programação</i></p>
-  <p><i>☄️ Em busca de algum caminho na área</i></p>
+  <p><i>☄️ Buscando direcionamento na área</i></p>
   
 ##
 
