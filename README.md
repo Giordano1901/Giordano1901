@@ -1,4 +1,4 @@
-## ⚊ Saudações, me chamo Gustavo! Seja bem-vindo ao meu mundo! ✨
+<h2><b>⚊ Saudações, me chamo Gustavo! Seja bem-vindo ao meu mundo! ✨</b><h2>
 
   <p><i>🌱 Iniciante em programação</i></p>
   <p><i>☄️ Buscando direcionamento na área</i></p>
