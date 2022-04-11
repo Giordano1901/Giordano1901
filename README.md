@@ -11,11 +11,12 @@
   <!-- Reorganizar a partir daqui, o tamanho de tudo é desproporcional! De preferencia tentar colocar o div
        "Sobre mim" ao lado do "Linguagens familiares.-->
 
-<div center="right">
+<div>
   <h3><b>Um pouquinho sobre mim:</b></h3>
-  <p>🌱 Iniciante em programação</p>
-  <p>📚 Cursando nível superior (1° Semestre)</p>
-  <p>☄️ Em busca de algum caminho na área</p>
+  <p><i>🌱 Iniciante em programação</i></p>
+  <p><i>📚 Cursando nível superior (1° Semestre em ADS)</i></p>
+  <p><i>☄️ Em busca de algum caminho na área</i></p>
+  
 </div>
 
 ##
