@@ -1,4 +1,4 @@
-<h2><b>⚊ Saudações, me chamo Gustavo! Seja bem-vindo ao meu mundo! ✨</b><h2>
+## ⚊ Saudações, me chamo Gustavo! Seja bem-vindo ao meu mundo! ✨
 
   <p><i>🌱 Iniciante em programação</i></p>
   <p><i>☄️ Buscando direcionamento na área</i></p>
@@ -13,7 +13,7 @@
 </div>
 
 <div>
-  <h3><b>LINGUAGENS FAMILIARES<b></h3>
+  <h4><b>LINGUAGENS FAMILIARES<b></h4>
   <img align="center" alt="Rafa-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -21,7 +21,7 @@
 
 ##
 
-<h3><b>ME ACOMPANHE<b></h3>
+<h4><b>ME ACOMPANHE<b></h4>
 
 <!--
 (INSERIR FORMAS DE CONTATO, REDES SOCIAIS TALVEZ)>
