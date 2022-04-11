@@ -7,7 +7,10 @@
 </div>
 
 ##
-  
+
+  <!-- Reorganizar a partir daqui, o tamanho de tudo é desproporcional! De preferencia tentar colocar o div
+       "Sobre mim" ao lado do "Linguagens familiares.-->
+
 <div center="right">
   <h5><b>Um pouco sobre mim:</b></h5>
   <p>🌱 Iniciante em programação</p>
@@ -26,4 +29,5 @@
 
 ##
 
-(INSERIR FORMAS DE CONTATO)
+<!--
+(INSERIR FORMAS DE CONTATO)>
