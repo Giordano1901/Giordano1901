@@ -12,10 +12,10 @@
        "Sobre mim" ao lado do "Linguagens familiares.-->
 
 <div center="right">
-  <h5><b>Um pouco sobre mim:</b></h5>
+  <h3><b>Um pouquinho sobre mim:</b></h3>
   <p>🌱 Iniciante em programação</p>
   <p>📚 Cursando nível superior (1° Semestre)</p>
-  <p>☄️ Em busca de seu caminho na área</p>
+  <p>☄️ Em busca de algum caminho na área</p>
 </div>
 
 ##
@@ -28,6 +28,7 @@
 </div>
 
 ##
+
 
 <!--
 (INSERIR FORMAS DE CONTATO)>
