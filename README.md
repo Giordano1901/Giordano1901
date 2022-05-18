@@ -7,9 +7,8 @@
 
 <div>
   <a href="https://github.com/Giordano1901">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=giordano1901&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giordano1901&layout=compact&langs_count=7&theme=rose_pine"/>
-  </a>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giordano1901&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giordano1901&layout=compact&langs_count=7&theme=rose_pine"/>
 </div>
 
 <div>
@@ -18,12 +17,12 @@
   <img align="center" alt="Rafa-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
+</a>
 
 ##
 
-<h4><b>ME ACOMPANHE<b></h4>
+<!-- <h4><b>ME ACOMPANHE<b></h4>
 
-<!--
 (INSERIR FORMAS DE CONTATO, REDES SOCIAIS TALVEZ)
 -Reddit
 -Discord
