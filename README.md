@@ -1,16 +1,12 @@
-## ⚊ Saudações, me chamo Gustavo! <!-- Seja bem-vindo ao meu mundo! ✨ 
+## ⚊ Saudações, me chamo Gustavo! ##
 
-  <p><i>🌱 Iniciante em programação</i></p>
-  <p><i>☄️ Buscando direcionamento na área</i></p>-->
-  
-##
 
 <div>
   <a href="https://github.com/Giordano1901">
-
+<!--
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=giordano1901&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giordano1901&layout=compact&langs_count=7&theme=rose_pine"/>
-
+-->
 </div>
 
  <!--
